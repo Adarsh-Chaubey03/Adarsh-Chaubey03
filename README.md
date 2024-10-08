@@ -15,4 +15,4 @@
 
 
 ## Contributions
- [GSSoC-Extd'24](https://github.com/GSSoC24)
+- [GSSoC-Extd'24](https://github.com/GSSoC24)
