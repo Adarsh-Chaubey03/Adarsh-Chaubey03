@@ -9,11 +9,10 @@
 -  [🔗**Linkedin**](https://www.linkedin.com/in/adarsh-chaubey)
 
 #
-
 <div align="center">
-  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px;">
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" style="flex: 1; margin-right: 10px;" />
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark" style="flex: 1; margin-left: 10px;" />
+  <div style="display: flex; justify-content: space-between; width: 100%; max-width: 800px; align-items: center;">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" style="margin-right: 10px;" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark" style="margin-left: 10px;" />
   </div>
 </div>
 
