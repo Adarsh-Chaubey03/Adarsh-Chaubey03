@@ -18,8 +18,10 @@
 #
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh-Chaubey03&theme=github_dark" />
 </div>
+
 
 
 ## Contributions
