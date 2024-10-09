@@ -15,12 +15,21 @@
 </p>
   
 <br/><br/><br/>
-#
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Adarsh-Chaubey03&theme=github_dark" />
-</div>
+<!-- GitHub Stats -->
+## 🌟 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" width="460"/>
+</p>
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=dark" alt="GitHub Streak Stats" width="460"/>
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=darkhub&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="600"/>
+</p>
 
 
 
