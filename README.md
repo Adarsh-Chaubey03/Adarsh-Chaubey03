@@ -14,7 +14,7 @@
 <a href="mailto:0310adarshchaubey@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;       
 </p>
   
-<br>
+<br/><br/><br/>
 #
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" />
