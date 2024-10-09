@@ -11,8 +11,7 @@
 #
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark"/> <br/><br/><br/>
-  <img align="right" alt="coding" height="300" width="330" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark"/>
 </div>
 
 
