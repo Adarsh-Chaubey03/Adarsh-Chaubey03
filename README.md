@@ -9,8 +9,10 @@
 -  [🔗**Linkedin**](https://www.linkedin.com/in/adarsh-chaubey)
 
 #
+
 <div align="center">
-  <img alt="my stats" width="45%" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&theme=blueberry" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adarsh-Chaubey03&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark"/>
 </div>
 
 ## Contributions
