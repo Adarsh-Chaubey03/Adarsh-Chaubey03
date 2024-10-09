@@ -15,5 +15,14 @@
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Adarsh-Chaubey03&theme=github_dark"/>
 </div>
 
+#
+
+<div align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Chaubey03&theme=react-dark" alt="Adarsh's Recent Activity Graph"  height = "300" />
+</a>
+</div>
+
+
 ## Contributions
 - [GSSoC-Extd'24](https://github.com/GSSoC24)
