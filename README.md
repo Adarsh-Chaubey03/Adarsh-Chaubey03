@@ -35,3 +35,8 @@
 
 ## Contributions
 - [GSSoC-Extd'24](https://github.com/GSSoC24)
+- **Badges**
+<div align="center">
+  <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=96" alt="GSSoC Badge" width="96">
+</div>
+
