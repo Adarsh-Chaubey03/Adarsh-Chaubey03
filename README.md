@@ -5,7 +5,7 @@
 
 - 👨‍💻 **Computer Science and Engineering**
   
-- 💻 **Active in the MERN stack** & **Deep Learning**
+- 💻 **Active in the `MERN stack`** & **`Deep Learning`**
  
 - 🚀 **Passionate about startups** & open to **collaborations**
 - **Connect with me**:
