@@ -33,7 +33,7 @@
 
 
 
-## Contributions
+## 🪴 Contributions
 - [GSSoC-Extd'24](https://github.com/GSSoC24)
 - **`Badges`**
 <div align="center">
