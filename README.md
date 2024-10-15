@@ -43,7 +43,7 @@
 <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" alt="GSSoC Badge" width="96">
 
 
-<img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" alt="GSSoC Badge" width="96">
+<img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" alt="GSSoC Badge" width="96">
   
 </div>
 
