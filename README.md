@@ -8,6 +8,7 @@
 - 💻 **Active in the `MERN stack`** & **`Deep Learning`**
  
 - 🚀 **Passionate about startups** & open to **collaborations**
+  <br>
 - **Connect with me**:
 <p align="center">
 <a href="https://www.linkedin.com/in/adarsh-chaubey/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
