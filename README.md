@@ -46,6 +46,7 @@
 
 <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" alt="GSSoC Badge" width="96">
 <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" alt="GSSoC Badge" width="96">
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   
 </div>
 
