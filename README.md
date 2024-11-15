@@ -22,10 +22,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" width="460"/>
 </p>
 
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=dark" alt="GitHub Streak Stats" width="460"/>
-</p>
+
 
 ## 🏆 GitHub Trophies
 <p align="center"><p align="center">
