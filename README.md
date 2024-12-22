@@ -22,9 +22,10 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
+<p align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" width="460" />
 </p>
+
 
 ---
 
