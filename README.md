@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" alt="Adarsh's GitHub Stats" width="460" />
 </p>
 
@@ -32,9 +32,11 @@
 <div align="center">
   <h1>📊 GitHub Streak</h1>
   <a href="https://github.com/Adarsh-Chaubey03">
-    <img src="https://streak-stats.demolab.com?user=Adarsh-Chaubey03&theme=light&hide_border=true" alt="Adarsh Chaubey's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=Adarsh-Chaubey03&theme=dark&hide_border=true" alt="Adarsh Chaubey's GitHub Streak" />
   </a>
 </div>
+
+
 
 ---
 
