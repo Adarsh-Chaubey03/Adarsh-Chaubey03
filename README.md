@@ -52,13 +52,16 @@
 - [GSSoC-Extd'24](https://github.com/GSSoC24)  
 - **`Badges`**  
 
-<div align="center">
-<img src="https://gssoc.girlscript.tech/badges/1.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/2.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/3.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/4.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/5.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/postman.png" alt="Postman Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/6.png" alt="GSSoC Badge" width="96" />
-<img src="https://gssoc.girlscript.tech/badges/web3hack.png" alt="Web3Hack Badge" width="96" />
+<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
+<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="105px" height="105px" />
+
+
 </div>
+
