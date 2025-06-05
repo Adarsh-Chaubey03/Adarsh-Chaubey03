@@ -12,7 +12,7 @@
 - 💻 **Computer Science and Engineering**
 - 🚀 **MERN Stack Developer** & **Deep Learning Enthusiast**
 - 💡 **Passionate about startups** & open to **collaborations**
-- 🌱 Currently learning **Advanced React Patterns** and **TensorFlow**
+
 
 
 <br clear="right"/>
