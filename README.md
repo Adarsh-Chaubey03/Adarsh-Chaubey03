@@ -8,12 +8,12 @@
 
 ## 🌟 About Me
 
-- 🎓 ** 2nd-year BTech student** at **NIT Manipur **
+- 🎓 ** 3rd-year BTech student** at **NIT Manipur **
 - 💻 **Computer Science and Engineering**
 - 🚀 **MERN Stack Developer** & **Deep Learning Enthusiast**
 - 💡 **Passionate about startups** & open to **collaborations**
 - 🌱 Currently learning **Advanced React Patterns** and **TensorFlow**
-- ⚡ Fun fact: I love contributing to open source projects!
+
 
 <br clear="right"/>
 
