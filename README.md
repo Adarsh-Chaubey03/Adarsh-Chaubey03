@@ -1,7 +1,7 @@
 # Hi, I'm Adarsh 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=2nd-year+BTech+student+at+NIT+Manipur;Computer+Science+%26+Engineering;MERN+Stack+Developer;Deep+Learning+Enthusiast;Open+to+Startup+Collaborations!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=3rd-year+BTech+student+at+NIT+Manipur;Computer+Science+%26+Engineering;MERN+Stack+Developer;Deep+Learning+Enthusiast;Open+to+Startup+Collaborations!" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="coding" height="300" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
