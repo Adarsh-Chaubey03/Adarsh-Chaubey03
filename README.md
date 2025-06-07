@@ -62,17 +62,15 @@
 
 ### 🌟 GSSoC Extended 2024 Contributor
 *Active participant in GirlScript Summer of Code Extended 2024*
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
-
-![Postman White](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png)
-![Hack-Web3Conf Badge](https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png)
-![Badge 1](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png)
-![Badge 2](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png)
-![Badge 3](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png)
-![Badge 4](https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png)
-
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: nowrap; overflow-x: auto;">
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman White" style="height: 80px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf Badge" style="height: 80px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1" style="height: 80px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2" style="height: 80px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3" style="height: 80px;" />
+  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4" style="height: 80px;" />
 </div>
+
 
 </div>
 
