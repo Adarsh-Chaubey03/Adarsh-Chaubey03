@@ -49,18 +49,11 @@
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="GitHub Streak" width="48%" />
-
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Adarsh Chaubey's GitHub Stats" style="max-width: 100%; width: 400px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=8B949E" alt="Adarsh Chaubey's GitHub Streak" style="max-width: 100%; width: 400px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Adarsh Chaubey's Most Used Languages" style="max-width: 100%; width: 400px;" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Most Used Languages" width="50%" />
-</div>
-
 ---
 
 ## 🏆 GitHub Trophies
