@@ -69,7 +69,7 @@
 <div align="center">
 
 ### 🌟 GSSoC Extended 2024 Contributor
-*Active participant in GirlScript Summer of Code Extended 2024*
+*Top Contributor in GirlScript Summer of Code Extended 2024*
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: nowrap; overflow-x: auto;">
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman White" style="height: 80px;" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf Badge" style="height: 80px;" />
