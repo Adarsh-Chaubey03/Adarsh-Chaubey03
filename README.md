@@ -59,8 +59,7 @@
 ## 📊 GitHub Performance
 
 <div style="display: flex; gap: 16; align-items: center;">
-  <img src="https://github.com/jstrieb/github-stats/blob/master/generated/Adarsh-Chaubey03/overview.svg#gh-dark-mode-only" height="165" />
-  <img src="https://github.com/jstrieb/github-stats/blob/master/generated/Adarsh-Chaubey03/languages.svg#gh-dark-mode-only" height="165" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Cabin&preferLogin=false">    <img  alt="Adarsh-Chaubey03's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Adarsh-Chaubey03?cardType=level&theme=github-dark&fontFamily=Cabin&preferLogin=false" />  </a>
 </div>
 
 
