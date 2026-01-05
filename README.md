@@ -74,16 +74,6 @@
 
 </div>
 
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=default&hide_border=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  </picture>
-
-</div>
-
 
 ---
 
