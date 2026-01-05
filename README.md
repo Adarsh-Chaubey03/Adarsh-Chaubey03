@@ -14,6 +14,7 @@
 
 
 
+
 ## 🎯 Professional Overview
 
 **BTech Computer Science & Engineering** | **3rd Year** | **NIT Manipur**
@@ -53,7 +54,19 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
+---
+## 📈 GitHub Overview
 
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" 
+    height="170"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=transparent&hide_border=true" 
+    height="170"
+  />
+</div>
 
 
 
