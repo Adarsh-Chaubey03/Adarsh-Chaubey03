@@ -56,11 +56,29 @@
 
 ---
 
+
+
 ## 📊 GitHub Performance
 
-<div style="display: flex; gap: 16; align-items: center;">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=github-dark&fontFamily=Cabin&preferLogin=false">    <img  alt="Adarsh-Chaubey03's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Adarsh-Chaubey03?cardType=level&theme=github-dark&fontFamily=Cabin&preferLogin=false" />  </a>
+<div style="
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 10px;
+  padding: 16px;
+  background: transparent;
+  font-family: Calibri, Candara, Segoe, 'Segoe UI', Optima, Arial, sans-serif;
+">
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html?cardType=level&theme=github-dark&fontFamily=Calibri&preferLogin=false">
+    <img
+      alt="Adarsh-Chaubey03's GitHub Stats"
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/Adarsh-Chaubey03?cardType=level&theme=github-dark&fontFamily=Calibri&preferLogin=false"
+      height="170"
+    />
+  </a>
 </div>
+
 
 
 ---
