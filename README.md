@@ -27,9 +27,11 @@
 <div align="center">
 
 ### Programming Languages
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 
 ### Frontend Development
@@ -57,8 +59,29 @@
 ## 📊 GitHub Performance
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+  </picture>
+
+</div>
+
+<div align="center">
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=default&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adarsh-Chaubey03&theme=tokyonight&hide_border=true&background=1A1B27&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  </picture>
+
 </div>
 
 
@@ -100,6 +123,7 @@ const adarsh = {
         frontend: ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
         languages: ["JavaScript", "TypeScript", "Python", "C++"],
+        datascience: ["Python", "NumPy"],
         tools: ["Git", "VS Code", "Postman"]
     },
     
@@ -126,21 +150,16 @@ const adarsh = {
 ---
 
 ## 🏅 GitHub Trophies
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Adarsh-Chaubey03 GitHub Trophies" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=flat&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=algolia&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+  </picture>
+
 </div>
-
-
-
----
-
-## 💼 Professional Focus
-
-- **🚀 Scalable Solutions**: Building robust and scalable applications for real-world impact
-- **🤖 Machine Learning & AI**: Advancing knowledge and implementing AI-driven solutions
-- **🌐 Full Stack Development**: Creating end-to-end web applications with modern technologies
-- **🔧 Open Source**: Contributing to community-driven projects and collaboration
-- **📚 Continuous Learning**: Staying updated with emerging technologies and best practices
 
 ---
 
