@@ -58,20 +58,9 @@
 
 ## 📊 GitHub Performance
 
-<div align="center">
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  </picture>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=default&hide_border=true&langs_count=8" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=tokyonight&hide_border=true&bg_color=1A1B27&title_color=00D9FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-  </picture>
-
+<div style="display: flex; gap: 16; align-items: center;">
+  <img src="https://github.com/jstrieb/github-stats/blob/master/generated/Adarsh-Chaubey03/overview.svg#gh-dark-mode-only" height="165" />
+  <img src="https://github.com/jstrieb/github-stats/blob/master/generated/Adarsh-Chaubey03/languages.svg#gh-dark-mode-only" height="165" />
 </div>
 
 
