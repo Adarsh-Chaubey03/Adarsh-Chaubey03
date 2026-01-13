@@ -59,16 +59,16 @@
 ---
 ## 📈 GitHub Overview
 
+
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true" 
-    height="170"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=transparent&hide_border=true" 
-    height="170"
-  />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
+  <img height="160"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
 </div>
+
+
+
 
 
 
@@ -78,13 +78,27 @@
 ---
 
 ## 🏆 Achievements & Recognition
-
 <div align="center">
 
-### 🌟 GSSoC Extended 2024 Contributor
-*Top Contributor in GirlScript Summer of Code Extended 2024*
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin: 20px 0; flex-wrap: nowrap; overflow-x: auto;">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman White" style="height: 80px;" />
+### 🏆 GirlScript Summer of Code
+
+<b>Project Admin · GSSoC 2025 (Rank 2)</b>
+
+<p>
+Served as <b>Project Admin</b> in GirlScript Summer of Code 2025.  
+Led the project, which secured <b>Rank 2</b> among all participating projects.
+</p>
+
+<br/>
+
+<b>Contributor · GSSoC Extended 2024</b>
+
+<p>
+Recognized as a <b>Top Contributor</b> in GirlScript Summer of Code Extended 2024 for consistent and high-quality open-source contributions.
+</p>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 14px; margin: 16px 0; flex-wrap: nowrap; overflow-x: auto;">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman White" style="height: 80px;" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf Badge" style="height: 80px;" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1" style="height: 80px;" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2" style="height: 80px;" />
@@ -94,8 +108,8 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" />
 </div>
 
-
 </div>
+
 
 ---
 
