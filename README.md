@@ -194,6 +194,7 @@ const adarsh = {
 **🎓 Institution**: National Institute of Technology, Manipur  
 **💼 Open for**: Collaborations, Projects, and Learning Opportunities
 
+
 </div>
 
 ---
