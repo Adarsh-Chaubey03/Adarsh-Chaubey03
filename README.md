@@ -156,29 +156,29 @@ const adarsh = {
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  
+
 <picture>
-  <!-- Dark Mode (Bluish, matches your current theme perfectly) -->
+  <!-- Dark mode -->
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=darkhub&no-frame=true&margin-w=12&row=2&column=4"
   />
 
-  <!-- Light Mode (Clean, readable, soft blue accents) -->
+  <!-- Light mode -->
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=onestar&no-frame=true&margin-w=12&row=2&column=4"
   />
 
   <!-- Fallback -->
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=darkhub&no-frame=true&margin-w=12&row=2&column=4"
+    alt="GitHub Profile Trophies"
   />
 </picture>
 
-
 </div>
+
 
 ---
 
