@@ -126,7 +126,7 @@ const adarsh = {
     technicalSkills: {
         frontend: ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS"],
         backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        languages: ["JavaScript", "TypeScript", "Python", "C++"],
+        languages: ["JavaScript","Java", "TypeScript", "Python", "C"],
         datascience: ["Python", "NumPy"],
         tools: ["Git", "VS Code", "Postman"]
     },
