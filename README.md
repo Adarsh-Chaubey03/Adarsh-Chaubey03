@@ -153,35 +153,6 @@ const adarsh = {
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<picture>
-  <!-- Dark mode -->
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=darkhub&no-frame=true&margin-w=12&row=2&column=4"
-  />
-
-  <!-- Light mode -->
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=onestar&no-frame=true&margin-w=12&row=2&column=4"
-  />
-
-  <!-- Fallback -->
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Adarsh-Chaubey03&theme=darkhub&no-frame=true&margin-w=12&row=2&column=4"
-    alt="GitHub Profile Trophies"
-  />
-</picture>
-
-</div>
-
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
