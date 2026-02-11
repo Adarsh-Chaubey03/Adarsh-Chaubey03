@@ -59,25 +59,6 @@
 
 
 ---
-## 📈 GitHub Overview
-
-
-<div align="center">
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api?username=Adarsh-Chaubey03&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" />
-  <img height="160"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh-Chaubey03&layout=compact&theme=default&hide_border=true&cache_seconds=1800" />
-</div>
-
-
-
-
-
-
-
-
-
----
 
 ## 🏆 Achievements & Recognition
 <div align="center">
