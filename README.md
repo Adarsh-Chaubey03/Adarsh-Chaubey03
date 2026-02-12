@@ -23,7 +23,8 @@
 
 > Dedicated student and full stack developer with expertise in scalable web development and emerging technologies. Passionate about creating real-world solutions and advancing in machine learning and artificial intelligence.
 
----
+--- 
+
 
 ## 🛠️ Technical Expertise
 
