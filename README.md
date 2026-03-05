@@ -5,7 +5,7 @@
       alt="Adarsh Chaubey Portfolio"
       style="cursor: pointer;"
     />
-  </a>
+  </a> 
 <pre>Click the banner to view My Portfolio.
 </pre>
 
