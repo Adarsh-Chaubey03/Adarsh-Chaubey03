@@ -81,15 +81,16 @@ Led the project, which secured <b>Rank 2</b> among all participating projects.
 Recognized as a <b>Top Contributor</b> in GirlScript Summer of Code Extended 2024 for consistent and high-quality open-source contributions.
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 14px; margin: 16px 0; flex-wrap: nowrap; overflow-x: auto;">
-    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" alt="Postman White" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" alt="Hack-Web3Conf Badge" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" alt="Badge 1" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" alt="Badge 2" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" alt="Badge 3" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" alt="Badge 4" style="height: 80px;" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80px" height="80px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="80px" height="80px" />
+<div align="center">
+
+  <img src="images/1.png" alt="Postman Badge 1" height="80">
+  <img src="images/2.png" alt="Postman Badge 2" height="80">
+  <img src="images/3.png" alt="Postman Badge 3" height="80">
+  <img src="images/4.png" alt="Postman Badge 4" height="80">
+  <img src="images/5.png" alt="Postman Badge 5" height="80">
+  <img src="images/6.png" alt="Postman Badge 6" height="80">
+  <img src="images/7.png" alt="Postman Badge 7" height="80">
+
 </div>
 
 </div>
