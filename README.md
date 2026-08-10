@@ -19,7 +19,7 @@
 
 ## 🎯 Professional Overview
 
-**BTech Computer Science & Engineering** | **3rd Year** | **NIT Manipur**
+**BTech Computer Science & Engineering** | **4th Year** | **NIT Manipur**
 
 > Dedicated student and full stack developer with expertise in scalable web development and emerging technologies. Passionate about creating real-world solutions and advancing in machine learning and artificial intelligence.
 
