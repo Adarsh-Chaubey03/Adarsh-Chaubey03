@@ -127,6 +127,7 @@ const adarsh = {
             "Software Development Engineer (SDE)",
             "Software Engineer",
             "Full Stack Developer",
+            "Frontend Developer",
             "Backend Developer"
         ]
     }
