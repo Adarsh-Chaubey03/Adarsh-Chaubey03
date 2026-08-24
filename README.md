@@ -112,6 +112,7 @@ const adarsh = {
     experience: {
         role: "Full Stack Developer Intern",
         company: "KHATAKHAT E-Logistic Pvt. Ltd.",
+        status: "Completed",
         focus: [
             "B2B-to-B2C platform transition",
             "Backend workflow and REST API development",
@@ -127,11 +128,6 @@ const adarsh = {
             "Software Engineer",
             "Full Stack Developer",
             "Backend Developer"
-        ],
-        workMode: [
-            "On-site",
-            "Hybrid",
-            "Remote"
         ]
     }
 };
