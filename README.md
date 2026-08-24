@@ -105,26 +105,35 @@ const adarsh = {
     education: {
         degree: "BTech Computer Science & Engineering",
         institution: "NIT Manipur",
-        year: "3rd Year"
+        year: "Final Year",
+        CGPA: 8.81
     },
-    
-    technicalSkills: {
-        frontend: ["React", "JavaScript", "TypeScript", "HTML5", "CSS3", "Tailwind CSS"],
-        backend: ["Node.js", "Express.js", "MongoDB", "MySQL"],
-        languages: ["JavaScript","Java", "TypeScript", "Python", "C"],
-        datascience: ["Python", "NumPy"],
-        tools: ["Git", "VS Code", "Postman"]
+
+    experience: {
+        role: "Full Stack Developer Intern",
+        company: "KHATAKHAT E-Logistic Pvt. Ltd.",
+        focus: [
+            "B2B-to-B2C platform transition",
+            "Backend workflow and REST API development",
+            "Payment, OTP, CORS, cart, order & delivery workflows",
+            "State management and performance optimization",
+            "Debugging, testing and deployment support"
+        ]
     },
-    
-    interests: [
-        "Full Stack Development",
-        "Machine Learning & AI",
-        "Scalable Solutions",
-        "Real-world Projects",
-        "Open Source Contribution"
-    ],
-    
-    currentFocus: "Building scalable real-world solutions and advancing in machine learning and AI"
+
+    openTo: {
+        roles: [
+            "Software Development Engineer (SDE)",
+            "Software Engineer",
+            "Full Stack Developer",
+            "Backend Developer"
+        ],
+        workMode: [
+            "On-site",
+            "Hybrid",
+            "Remote"
+        ]
+    }
 };
 ```
 
