@@ -136,13 +136,7 @@ const adarsh = {
 
 ---
 
-## 📈 Contribution Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adarsh-Chaubey03&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
 
 ## 📫 Connect With Me
 
