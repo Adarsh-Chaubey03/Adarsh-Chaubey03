@@ -236,7 +236,6 @@ An AI-powered decision-support platform for crime prediction, threat detection, 
 
 <p>
 <img src="https://img.shields.io/badge/PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C">
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
 <img src="https://img.shields.io/badge/Kafka-20232A?style=flat-square&logo=apachekafka&logoColor=white">
 <img src="https://img.shields.io/badge/Neo4j-20232A?style=flat-square&logo=neo4j&logoColor=008CC1">
 </p>
