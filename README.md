@@ -58,81 +58,6 @@
 
 </div>
 
-
----
-
-## 🏆 Achievements & Recognition
-<div align="center">
-
-### 🏆 GirlScript Summer of Code
-
-<b>Project Admin · GSSoC 2025 (Rank 2)</b>
-
-<p>
-Served as <b>Project Admin</b> in GirlScript Summer of Code 2025.  
-Led the project, which secured <b>Rank 2</b> among all participating projects.
-</p>
-
-<br/>
-
-<b>Contributor · GSSoC Extended 2024</b>
-
-<p>
-Recognized as a <b>Top Contributor</b> in GirlScript Summer of Code Extended 2024 for consistent and high-quality open-source contributions.
-</p>
-
-<div align="center">
-
-  <img src="images/1.png" alt="Postman Badge 1" height="80">
-  <img src="images/2.png" alt="Postman Badge 2" height="80">
-  <img src="images/3.png" alt="Postman Badge 3" height="80">
-  <img src="images/4.png" alt="Postman Badge 4" height="80">
-  <img src="images/5.png" alt="Postman Badge 5" height="80">
-  <img src="images/6.png" alt="Postman Badge 6" height="80">
-  <img src="images/7.png" alt="Postman Badge 7" height="80">
-
-</div>
-
-</div>
-
-
----
-
-## 🎯 Core Competencies
-
-```javascript
-const adarsh = {
-    education: {
-        degree: "BTech Computer Science & Engineering",
-        institution: "NIT Manipur",
-        year: "Final Year",
-        CGPA: 8.81
-    },
-
-    experience: {
-        role: "Full Stack Developer Intern",
-        company: "KHATAKHAT E-Logistic Pvt. Ltd.",
-        status: "Completed",
-        focus: [
-            "B2B-to-B2C platform transition",
-            "Backend workflow and REST API development",
-            "Payment, OTP, CORS, cart, order & delivery workflows",
-            "State management and performance optimization",
-            "Debugging, testing and deployment support"
-        ]
-    },
-
-    openTo: {
-        roles: [
-            "Software Development Engineer (SDE)",
-            "Software Engineer",
-            "Full Stack Developer",
-            "Frontend Developer",
-            "Backend Developer"
-        ]
-    }
-};
-```
 <h2>🚀 Featured Projects</h2>
 
 <p>
@@ -147,7 +72,7 @@ and experience across full-stack development, AI, and open source.
 
 <td width="33%" valign="top">
 
-<h3>💧 VidyaTrack</h3>
+<h3>📚 VidyaTrack</h3>
 
 <p>
 A full-stack platform connecting students and educators through courses, mentorship, resources, and AI-powered learning.
@@ -336,6 +261,85 @@ An AI-powered decision-support platform for crime prediction, threat detection, 
 <img src="https://img.shields.io/badge/◉%20VIEW%20MORE%20PROJECTS-161B22?style=for-the-badge&logo=github&logoColor=white">
 </a>
 </p>
+
+
+---
+
+
+
+## 🏆 Achievements & Recognition
+<div align="center">
+
+### 🏆 GirlScript Summer of Code
+
+<b>Project Admin · GSSoC 2025 (Rank 2)</b>
+
+<p>
+Served as <b>Project Admin</b> in GirlScript Summer of Code 2025.  
+Led the project, which secured <b>Rank 2</b> among all participating projects.
+</p>
+
+<br/>
+
+<b>Contributor · GSSoC Extended 2024</b>
+
+<p>
+Recognized as a <b>Top Contributor</b> in GirlScript Summer of Code Extended 2024 for consistent and high-quality open-source contributions.
+</p>
+
+<div align="center">
+
+  <img src="images/1.png" alt="Postman Badge 1" height="80">
+  <img src="images/2.png" alt="Postman Badge 2" height="80">
+  <img src="images/3.png" alt="Postman Badge 3" height="80">
+  <img src="images/4.png" alt="Postman Badge 4" height="80">
+  <img src="images/5.png" alt="Postman Badge 5" height="80">
+  <img src="images/6.png" alt="Postman Badge 6" height="80">
+  <img src="images/7.png" alt="Postman Badge 7" height="80">
+
+</div>
+
+</div>
+
+
+---
+
+## 🎯 Core Competencies
+
+```javascript
+const adarsh = {
+    education: {
+        degree: "BTech Computer Science & Engineering",
+        institution: "NIT Manipur",
+        year: "Final Year",
+        CGPA: 8.81
+    },
+
+    experience: {
+        role: "Full Stack Developer Intern",
+        company: "KHATAKHAT E-Logistic Pvt. Ltd.",
+        status: "Completed",
+        focus: [
+            "B2B-to-B2C platform transition",
+            "Backend workflow and REST API development",
+            "Payment, OTP, CORS, cart, order & delivery workflows",
+            "State management and performance optimization",
+            "Debugging, testing and deployment support"
+        ]
+    },
+
+    openTo: {
+        roles: [
+            "Software Development Engineer (SDE)",
+            "Software Engineer",
+            "Full Stack Developer",
+            "Frontend Developer",
+            "Backend Developer"
+        ]
+    }
+};
+```
+
 
 ## 📫 Connect With Me
 
