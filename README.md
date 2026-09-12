@@ -86,7 +86,7 @@ A full-stack platform connecting students and educators through courses, mentors
 </p>
 
 <br>
-
+<br>
 <p>
 <a href="https://vidya-track-xi.vercel.app/">
 <img src="https://img.shields.io/badge/↗%20LIVE%20DEMO-FF416C?style=for-the-badge">
