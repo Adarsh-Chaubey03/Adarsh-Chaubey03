@@ -135,7 +135,199 @@ const adarsh = {
 ```
 
 ---
+<h2>🚀 Featured Projects</h2>
 
+<p>
+  A few things I've built that reflect my learning, problem-solving,
+  and experience across full-stack development, AI, and open source.
+</p>
+
+<table>
+<tr>
+
+<!-- ==================== PROJECT 1 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🩸 VidyaTrack</h3>
+
+<p>
+A full-stack educational platform connecting students and educators
+through courses, mentorship, resources, and AI-powered learning tools.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=68A063">
+<img src="https://img.shields.io/badge/MongoDB-20232A?style=flat-square&logo=mongodb&logoColor=47A248">
+<img src="https://img.shields.io/badge/Socket.io-20232A?style=flat-square&logo=socket.io&logoColor=white">
+</p>
+
+<p>
+<a href="https://vidya-track-xi.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-FF416C?style=for-the-badge">
+</a>
+<a href="https://github.com/Adarsh-Chaubey03/VidyaTrack">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<!-- ==================== PROJECT 2 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🛡️ PathSense AI</h3>
+
+<p>
+Privacy-first smartphone fall detection and emergency response
+system for visually impaired users using sensor-based AI.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Expo-20232A?style=flat-square&logo=expo&logoColor=white">
+<img src="https://img.shields.io/badge/Python-20232A?style=flat-square&logo=python&logoColor=3776AB">
+<img src="https://img.shields.io/badge/PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+</p>
+
+<p>
+<a href="https://github.com/Adarsh-Chaubey03/PathSense-AI">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<!-- ==================== PROJECT 3 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🔑 DBMS Key Analyzer</h3>
+
+<p>
+A full-stack web application that computes candidate keys and
+superkeys from relational schemas and functional dependencies.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Java%2017+-20232A?style=flat-square&logo=openjdk&logoColor=ED8B00">
+<img src="https://img.shields.io/badge/Spring%20Boot-20232A?style=flat-square&logo=springboot&logoColor=6DB33F">
+<img src="https://img.shields.io/badge/JavaScript-20232A?style=flat-square&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/REST%20API-20232A?style=flat-square">
+</p>
+
+<p>
+<a href="https://key-analyzer-rdbms.onrender.com/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-FFB000?style=for-the-badge">
+</a>
+<a href="https://github.com/Adarsh-Chaubey03/Key-Analyzer-RDBMS">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<!-- ==================== PROJECT 4 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🏥 VaidyaTek</h3>
+
+<p>
+AI-powered healthcare platform connecting patients, doctors,
+labs, and pharmacies with real-time services and intelligent diagnosis.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/MERN-20232A?style=flat-square">
+<img src="https://img.shields.io/badge/PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/OpenCV-20232A?style=flat-square&logo=opencv&logoColor=5C3EE8">
+<img src="https://img.shields.io/badge/WebRTC-20232A?style=flat-square">
+</p>
+
+<p>
+<a href="https://vaidyatek.shop/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-22C55E?style=for-the-badge">
+</a>
+<a href="https://github.com/Adarsh-Chaubey03/VaidyaTech-Hackathon-Project">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<!-- ==================== PROJECT 5 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🌍 TravelGrid</h3>
+
+<p>
+Open-source travel platform for planning, customizing, and booking
+trips with AI-powered assistance and community-driven development.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Vite-20232A?style=flat-square&logo=vite&logoColor=646CFF">
+<img src="https://img.shields.io/badge/Tailwind-20232A?style=flat-square&logo=tailwindcss&logoColor=38B2AC">
+<img src="https://img.shields.io/badge/Node.js-20232A?style=flat-square&logo=node.js&logoColor=68A063">
+</p>
+
+<p>
+<a href="https://travel-grid.vercel.app/">
+<img src="https://img.shields.io/badge/↗%20Live%20Demo-0EA5E9?style=for-the-badge">
+</a>
+<a href="https://github.com/Adarsh-Chaubey03/TravelGrid">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+<!-- ==================== PROJECT 6 ==================== -->
+
+<td width="33%" valign="top">
+
+<h3>🔒 AI Crime Intelligence</h3>
+
+<p>
+AI-augmented decision-support platform for crime pattern prediction,
+threat detection, behavioral analysis, and forensic correlation.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/PyTorch-20232A?style=flat-square&logo=pytorch&logoColor=EE4C2C">
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/Kafka-20232A?style=flat-square&logo=apachekafka&logoColor=white">
+<img src="https://img.shields.io/badge/Neo4j-20232A?style=flat-square&logo=neo4j&logoColor=008CC1">
+</p>
+
+<p>
+<a href="https://github.com/Adarsh-Chaubey03/Crime-Analysis">
+<img src="https://img.shields.io/badge/◉%20GitHub-1F2937?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Adarsh-Chaubey03?tab=repositories">
+    <img src="https://img.shields.io/badge/◉%20View%20More%20Projects-161B22?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+---
 
 
 ## 📫 Connect With Me
