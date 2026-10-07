@@ -54,8 +54,6 @@
 <div>
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sentence_Transformers-4285F4?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Styling & Tools
